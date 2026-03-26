@@ -1,1 +1,93 @@
-[]
+[
+  {
+    "task_id": "1",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread",
+    "date": "2026-03-26",
+    "status": false
+  },
+  {
+    "task_id": "2",
+    "title": "Morning workout",
+    "description": "30 minutes cardio",
+    "date": "2026-03-26",
+    "status": true
+  },
+  {
+    "task_id": "3",
+    "title": "Read a book",
+    "description": "Read 20 pages",
+    "date": "2026-03-27",
+    "status": false
+  },
+  {
+    "task_id": "4",
+    "title": "Clean room",
+    "description": "Vacuum and organize desk",
+    "date": "2026-03-27",
+    "status": false
+  },
+  {
+    "task_id": "5",
+    "title": "Call mom",
+    "description": "Evening call",
+    "date": "2026-03-28",
+    "status": true
+  },
+  {
+    "task_id": "6",
+    "title": "Finish backend task",
+    "description": "Complete API endpoints",
+    "date": "2026-03-28",
+    "status": false
+  },
+  {
+    "task_id": "7",
+    "title": "Pay bills",
+    "description": "Internet and phone",
+    "date": "2026-03-29",
+    "status": false
+  },
+  {
+    "task_id": "8",
+    "title": "Walk the dog",
+    "description": "Park walk for 40 minutes",
+    "date": "2026-03-29",
+    "status": true
+  },
+  {
+    "task_id": "9",
+    "title": "Study English",
+    "description": "Practice grammar and vocabulary",
+    "date": "2026-03-30",
+    "status": false
+  },
+  {
+    "task_id": "10",
+    "title": "Prepare weekly plan",
+    "description": "Plan tasks for next week",
+    "date": "2026-03-30",
+    "status": false
+  },
+  {
+    "task_id": "c51a997a-d606-406f-9ef5-0e795bfbcd20",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread",
+    "date": "2026-03-26",
+    "status": false
+  },
+  {
+    "task_id": "7b9bce61-ffac-4fd1-8d2b-06edb017a49e",
+    "title": "Morning workout",
+    "description": "30 minutes cardio",
+    "date": "2026-03-26",
+    "status": true
+  },
+  {
+    "task_id": "dd84ffa1-d6d7-4d49-a39f-37d31d72c63b",
+    "title": "Read a book",
+    "description": "Read 20 pages",
+    "date": "2026-03-27",
+    "status": false
+  }
+]
