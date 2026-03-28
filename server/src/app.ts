@@ -34,10 +34,7 @@ class App {
 
   private initializeMiddlewares(): void {
     this.app.use(
-      cors({
-        origin: ['http://localhost:3000', 'http://localhost:5173'],
-        credentials: true,
-      }),
+      cors(),
     );
     this.app.use(express.json());
     this.app.use(express.urlencoded({ extended: true }));
