@@ -1,0 +1,31 @@
+.inputsContainer {
+  margin-top: 20px;
+  gap: 30px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  input {
+    border: 1px solid grey;
+    width: 300px;
+    padding: 10px 0px 10px 15px;
+    border-radius: 10px;
+  }
+  button {
+    padding: 7px 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+}
+
+.tasksContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  .taskContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+  }
+}
